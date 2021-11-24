@@ -1,0 +1,22 @@
+{
+  "name": "intento1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "isbn.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnmanuelMinaya/kata-isbn-1st-try.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EnmanuelMinaya/kata-isbn-1st-try/issues"
+  },
+  "homepage": "https://github.com/EnmanuelMinaya/kata-isbn-1st-try#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
